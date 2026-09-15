@@ -1,0 +1,2 @@
+experiment_id,phase,status,hypothesis,protocol_hash,data_hash,train_end,validation_end,test_start,test_end,seed_manifest,result
+P0,design,not_run,Does biological connectivity add incremental value?,,,,,,,,NEED_MORE_DATA

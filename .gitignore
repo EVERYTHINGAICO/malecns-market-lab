@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.pem
+*.key
+*.npz
+*.feather
+*.sqlite*
+*.db*
+data/
+private/
+baseline_snapshot/
+results/
+.DS_Store
